@@ -15,6 +15,10 @@
     display: none;
 }
 
+#plex > div:nth-child(4) > div > div.AudioVideoFullPlayer-bottomBar-h224iE.AudioVideoFullPlayer-bar-ka0DgM.AudioVideoFullPlayer-bottomBarHidden-cXfDeS > div > div > div:nth-child(1) > div {
+    top: -9px;
+}
+
 .plex-image-preloader {
     background-image: url("/theme.park/css/addons/plex/plex-alt-logo/logo_full.png");
 }
