@@ -19,6 +19,10 @@
     top: -9px;
 }
 
+.SourceSidebar-openSidebar-I364_Z {
+    min-width: 200px;
+}
+
 .plex-image-preloader {
     background-image: url("/theme.park/css/addons/plex/plex-alt-logo/logo_full.png");
 }
